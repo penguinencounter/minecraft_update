@@ -15,6 +15,3 @@ Use `cron` and `crontab` to schedule automatic updates:
 Add `[minute] [hour] * * 1 python3 /absolute/path/to/download.py` for a weekly update.
 
 That's all!
-
-# END
-
